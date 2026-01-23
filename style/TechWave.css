@@ -71,6 +71,7 @@
   align-items: center;    
   justify-content: center;
   text-align: center;
+  padding-left: 50px;
    
 }
 
@@ -158,5 +159,15 @@
     border: 1px solid rgb(240, 216, 5);
     padding: 10px;
     border-radius: 50%;
+}
+
+.footer{
+    background-image: url(../assets/Image.png);
+     height: 200px;         
+  display: flex;
+  align-items: center;    
+  justify-content: center;
+  text-align: center;
+   
 }
 }
